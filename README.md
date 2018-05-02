@@ -1,2 +1,3 @@
-# MLnikhef
-Machine Learning at nikhef
+Nikhef Machine Learning
+=======================
+
